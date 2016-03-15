@@ -1,27 +1,22 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+clubwebsite README
 
-Things you may want to cover:
+* This is a Ruby on Rails-generated codebase for our engineering club website. If you are unfamiliar with Ruby on Rails, please see <http://rubyonrails.org/>. Familiarity with basic coding logic, and a basic knowledge of Ruby syntax will help greatly if you are serious about committing to this project.
 
-* Ruby version
+* Additionally, basic knowledge of HTML5, CSS3, and Bootstrap would be beneficial.
 
-* System dependencies
+* This repository's first commit is what you should see when you create your own Ruby on Rails project. Try it on your home computer. If you run into a problem, Google it before you ask us about it.
 
-* Configuration
+* The first step for our website will be to create a template for post management. (Like a blog.) This will be done in a separate branch from master. If you would like to help with this, let us know.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* If you have any other ideas, please send ideas to the Google Group.
 
 * ...
+
+
+
+
 
 
 Please feel free to use a different markup language if you do not plan to run
