@@ -1,5 +1,7 @@
 == README
 
+{<img src="https://badges.gitter.im/jctdickinson/clubwebsite.svg" alt="Join the chat at https://gitter.im/jctdickinson/clubwebsite">}[https://gitter.im/jctdickinson/clubwebsite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 clubwebsite README
 
 * This is a Ruby on Rails-generated codebase for our engineering club website. If you are unfamiliar with Ruby on Rails, please see <http://rubyonrails.org/>. Familiarity with basic coding logic, and a basic knowledge of Ruby syntax will help greatly if you are serious about committing to this project.
